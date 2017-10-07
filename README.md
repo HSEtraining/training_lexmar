@@ -1,5 +1,5 @@
 # training_lexmar
 
-# beolow is some training
+# below is some training
 
 ## "Hello world!"
